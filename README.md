@@ -4,27 +4,27 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**111** problems solved on [Xom Data](https://xomdata.com/practice).
+**151** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Python | 80 | 24 | 6 | 0 | 110 |
-| SQL | 0 | 1 | 0 | 0 | 1 |
+| Python | 80 | 31 | 6 | 0 | 117 |
+| SQL | 21 | 13 | 0 | 0 | 34 |
 
 **Recently solved**
 
-- [py-days-between](https://xomdata.com/practice/py-days-between) · Medium · 2026-08-17
-- [py-date-range-filter](https://xomdata.com/practice/py-date-range-filter) · Medium · 2026-08-17
-- [py-csv-line-record](https://xomdata.com/practice/py-csv-line-record) · Medium · 2026-08-17
-- [py-count-occurrences-word](https://xomdata.com/practice/py-count-occurrences-word) · Medium · 2026-08-17
-- [py-competition-rank](https://xomdata.com/practice/py-competition-rank) · Medium · 2026-08-17
-- [py-chunk-list](https://xomdata.com/practice/py-chunk-list) · Medium · 2026-08-16
-- [py-case-insensitive-order](https://xomdata.com/practice/py-case-insensitive-order) · Medium · 2026-08-16
-- [py-caesar-shift](https://xomdata.com/practice/py-caesar-shift) · Medium · 2026-08-16
-- [py-balanced-brackets](https://xomdata.com/practice/py-balanced-brackets) · Medium · 2026-08-16
-- [py-median](https://xomdata.com/practice/py-median) · Medium · 2026-08-16
+- [medium-having-162](https://xomdata.com/practice/medium-having-162) · Medium · 2026-08-19
+- [medium-having-128](https://xomdata.com/practice/medium-having-128) · Medium · 2026-08-19
+- [medium-having-019](https://xomdata.com/practice/medium-having-019) · Medium · 2026-08-19
+- [medium-groupby-027](https://xomdata.com/practice/medium-groupby-027) · Medium · 2026-08-19
+- [medium-datefunction-045](https://xomdata.com/practice/medium-datefunction-045) · Medium · 2026-08-19
+- [medium-casewhen-047](https://xomdata.com/practice/medium-casewhen-047) · Medium · 2026-08-19
+- [medium-case-160](https://xomdata.com/practice/medium-case-160) · Medium · 2026-08-19
+- [medium-subquery-110](https://xomdata.com/practice/medium-subquery-110) · Medium · 2026-08-18
+- [medium-subquery-103](https://xomdata.com/practice/medium-subquery-103) · Medium · 2026-08-18
+- [medium-union-175](https://xomdata.com/practice/medium-union-175) · Medium · 2026-08-18
 
-_Synced 111 solutions · last update 2026-08-17_
+_Synced 151 solutions · last update 2026-08-19_
 
 <!-- xomdata:stats:end -->
 
