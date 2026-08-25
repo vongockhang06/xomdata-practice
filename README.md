@@ -4,27 +4,27 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**239** problems solved on [Xom Data](https://xomdata.com/practice).
+**248** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Python | 80 | 33 | 6 | 0 | 119 |
-| SQL | 80 | 32 | 0 | 8 | 120 |
+| Python | 80 | 37 | 6 | 0 | 123 |
+| SQL | 80 | 37 | 0 | 8 | 125 |
 
 **Recently solved**
 
+- [py-vote-winner](https://xomdata.com/practice/py-vote-winner) · Medium · 2026-08-25
+- [py-validate-rows](https://xomdata.com/practice/py-validate-rows) · Medium · 2026-08-25
+- [py-two-sum-count](https://xomdata.com/practice/py-two-sum-count) · Medium · 2026-08-25
+- [py-word-frequency](https://xomdata.com/practice/py-word-frequency) · Medium · 2026-08-24
+- [medium-agg-137](https://xomdata.com/practice/medium-agg-137) · Medium · 2026-08-24
+- [medium-join-076](https://xomdata.com/practice/medium-join-076) · Medium · 2026-08-24
+- [medium-join-029](https://xomdata.com/practice/medium-join-029) · Medium · 2026-08-24
+- [medium-join-014](https://xomdata.com/practice/medium-join-014) · Medium · 2026-08-24
+- [medium-groupby-097](https://xomdata.com/practice/medium-groupby-097) · Medium · 2026-08-24
 - [sql-nightmare-005](https://xomdata.com/practice/sql-nightmare-005) · Nightmare · 2026-08-23
-- [sql-nightmare-004](https://xomdata.com/practice/sql-nightmare-004) · Nightmare · 2026-08-23
-- [sql-nightmare-003](https://xomdata.com/practice/sql-nightmare-003) · Nightmare · 2026-08-23
-- [sql-nightmare-002](https://xomdata.com/practice/sql-nightmare-002) · Nightmare · 2026-08-23
-- [sql-nightmare-001](https://xomdata.com/practice/sql-nightmare-001) · Nightmare · 2026-08-23
-- [medium-subquery-028](https://xomdata.com/practice/medium-subquery-028) · Medium · 2026-08-23
-- [medium-leftjoin-096](https://xomdata.com/practice/medium-leftjoin-096) · Medium · 2026-08-23
-- [medium-leftjoin-031](https://xomdata.com/practice/medium-leftjoin-031) · Medium · 2026-08-23
-- [medium-join-001](https://xomdata.com/practice/medium-join-001) · Medium · 2026-08-22
-- [medium-lag-004](https://xomdata.com/practice/medium-lag-004) · Medium · 2026-08-22
 
-_Synced 239 solutions · last update 2026-08-23_
+_Synced 248 solutions · last update 2026-08-25_
 
 <!-- xomdata:stats:end -->
 

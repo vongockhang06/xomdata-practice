@@ -237,5 +237,14 @@
   "practice/sql/nightmare/sql-nightmare-002/solution.sql": "f071e137f4d7ddec81103b37e8c5679645f0b423a4541a13284868b2a75b9081",
   "practice/sql/nightmare/sql-nightmare-003/solution.sql": "ef20b7a4091c5da55db732c5d38206fae7c71e7b00902e98b2fd2a5b88e00985",
   "practice/sql/nightmare/sql-nightmare-004/solution.sql": "f9356824dbb260b6b924bd706287498bb2970f3c4203c83de32b8991413bce26",
-  "practice/sql/nightmare/sql-nightmare-005/solution.sql": "f2ffd9bd8951b7e5ed682fd7394ee89c1b35763170a387e76e6e398844d0a11a"
+  "practice/sql/nightmare/sql-nightmare-005/solution.sql": "f2ffd9bd8951b7e5ed682fd7394ee89c1b35763170a387e76e6e398844d0a11a",
+  "practice/sql/medium/medium-groupby-097/solution.sql": "b3f9a75bac9bf75126fc6accf05c626111ec805c863fd5d10e38a66b21c97828",
+  "practice/sql/medium/medium-join-014/solution.sql": "dce73a1801e13540c9944298a58f22579afd3e8df79182aa6e3c61350d589fa8",
+  "practice/sql/medium/medium-join-029/solution.sql": "82c006c676e7039661f3f50cf32861db4fcf40e17df4c8f93d6d338b5cac3164",
+  "practice/sql/medium/medium-join-076/solution.sql": "6a11f292b68c00e97ef8e6a05b2224ee2c48dab370dcbed9483aab2ffc30dc7b",
+  "practice/sql/medium/medium-agg-137/solution.sql": "51629eff40e7498bac612eb4762bec0cd1319064da7f1bfc08568f6e643ae1d7",
+  "practice/python/medium/py-word-frequency/solution.py": "b1d96b3c96adf013a584f9823b716a90738ad8b6cb80353dc3dcf3e904f21e61",
+  "practice/python/medium/py-two-sum-count/solution.py": "9b0a2cec247f48f0097827fba630788c3d9a8fed946adbcfc370d1318da5118e",
+  "practice/python/medium/py-validate-rows/solution.py": "7594ba3c7ce651b47f553b5b48cc877364be61e6cd4a8b21b064550da54463fd",
+  "practice/python/medium/py-vote-winner/solution.py": "8866a11498cdb4b38b8a9bd1a1b30b228916f42e66b9d910718be2fe3fdd063f"
 }
