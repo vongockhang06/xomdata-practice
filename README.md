@@ -4,27 +4,27 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**248** problems solved on [Xom Data](https://xomdata.com/practice).
+**293** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Python | 80 | 37 | 6 | 0 | 123 |
+| Python | 80 | 82 | 6 | 0 | 168 |
 | SQL | 80 | 37 | 0 | 8 | 125 |
 
 **Recently solved**
 
-- [py-vote-winner](https://xomdata.com/practice/py-vote-winner) · Medium · 2026-08-25
-- [py-validate-rows](https://xomdata.com/practice/py-validate-rows) · Medium · 2026-08-25
-- [py-two-sum-count](https://xomdata.com/practice/py-two-sum-count) · Medium · 2026-08-25
-- [py-word-frequency](https://xomdata.com/practice/py-word-frequency) · Medium · 2026-08-24
-- [medium-agg-137](https://xomdata.com/practice/medium-agg-137) · Medium · 2026-08-24
-- [medium-join-076](https://xomdata.com/practice/medium-join-076) · Medium · 2026-08-24
-- [medium-join-029](https://xomdata.com/practice/medium-join-029) · Medium · 2026-08-24
-- [medium-join-014](https://xomdata.com/practice/medium-join-014) · Medium · 2026-08-24
-- [medium-groupby-097](https://xomdata.com/practice/medium-groupby-097) · Medium · 2026-08-24
-- [sql-nightmare-005](https://xomdata.com/practice/sql-nightmare-005) · Nightmare · 2026-08-23
+- [py-word-wrap](https://xomdata.com/practice/py-word-wrap) · Medium · 2026-08-27
+- [py-first-negative-balance](https://xomdata.com/practice/py-first-negative-balance) · Medium · 2026-08-27
+- [py-fill-missing](https://xomdata.com/practice/py-fill-missing) · Medium · 2026-08-27
+- [py-aggregate-two-fields](https://xomdata.com/practice/py-aggregate-two-fields) · Medium · 2026-08-27
+- [py-age-at-date](https://xomdata.com/practice/py-age-at-date) · Medium · 2026-08-27
+- [py-first-unique-word](https://xomdata.com/practice/py-first-unique-word) · Medium · 2026-08-27
+- [py-join-records](https://xomdata.com/practice/py-join-records) · Medium · 2026-08-27
+- [py-email-domain](https://xomdata.com/practice/py-email-domain) · Medium · 2026-08-27
+- [py-merge-sorted](https://xomdata.com/practice/py-merge-sorted) · Medium · 2026-08-27
+- [py-average-per-group](https://xomdata.com/practice/py-average-per-group) · Medium · 2026-08-27
 
-_Synced 248 solutions · last update 2026-08-25_
+_Synced 293 solutions · last update 2026-08-27_
 
 <!-- xomdata:stats:end -->
 
