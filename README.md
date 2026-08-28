@@ -4,27 +4,27 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**293** problems solved on [Xom Data](https://xomdata.com/practice).
+**311** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Python | 80 | 82 | 6 | 0 | 168 |
-| SQL | 80 | 37 | 0 | 8 | 125 |
+| Python | 80 | 82 | 20 | 0 | 182 |
+| SQL | 80 | 41 | 0 | 8 | 129 |
 
 **Recently solved**
 
-- [py-word-wrap](https://xomdata.com/practice/py-word-wrap) · Medium · 2026-08-27
-- [py-first-negative-balance](https://xomdata.com/practice/py-first-negative-balance) · Medium · 2026-08-27
-- [py-fill-missing](https://xomdata.com/practice/py-fill-missing) · Medium · 2026-08-27
-- [py-aggregate-two-fields](https://xomdata.com/practice/py-aggregate-two-fields) · Medium · 2026-08-27
-- [py-age-at-date](https://xomdata.com/practice/py-age-at-date) · Medium · 2026-08-27
-- [py-first-unique-word](https://xomdata.com/practice/py-first-unique-word) · Medium · 2026-08-27
-- [py-join-records](https://xomdata.com/practice/py-join-records) · Medium · 2026-08-27
-- [py-email-domain](https://xomdata.com/practice/py-email-domain) · Medium · 2026-08-27
-- [py-merge-sorted](https://xomdata.com/practice/py-merge-sorted) · Medium · 2026-08-27
-- [py-average-per-group](https://xomdata.com/practice/py-average-per-group) · Medium · 2026-08-27
+- [medium-join-141](https://xomdata.com/practice/medium-join-141) · Medium · 2026-08-28
+- [medium-coalesce-040](https://xomdata.com/practice/medium-coalesce-040) · Medium · 2026-08-28
+- [medium-agg-127](https://xomdata.com/practice/medium-agg-127) · Medium · 2026-08-28
+- [medium-having-187](https://xomdata.com/practice/medium-having-187) · Medium · 2026-08-28
+- [py-spiral-order](https://xomdata.com/practice/py-spiral-order) · Hard · 2026-08-28
+- [py-first-non-repeating](https://xomdata.com/practice/py-first-non-repeating) · Hard · 2026-08-28
+- [py-longest-common-prefix](https://xomdata.com/practice/py-longest-common-prefix) · Hard · 2026-08-28
+- [py-word-break](https://xomdata.com/practice/py-word-break) · Hard · 2026-08-28
+- [py-valid-brackets](https://xomdata.com/practice/py-valid-brackets) · Hard · 2026-08-28
+- [py-two-sum-indices](https://xomdata.com/practice/py-two-sum-indices) · Hard · 2026-08-28
 
-_Synced 293 solutions · last update 2026-08-27_
+_Synced 311 solutions · last update 2026-08-28_
 
 <!-- xomdata:stats:end -->
 
