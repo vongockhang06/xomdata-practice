@@ -4,27 +4,27 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**343** problems solved on [Xom Data](https://xomdata.com/practice).
+**367** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Python | 80 | 82 | 20 | 0 | 182 |
-| SQL | 80 | 72 | 1 | 8 | 161 |
+| SQL | 80 | 93 | 4 | 8 | 185 |
 
 **Recently solved**
 
-- [medium-winagg-004](https://xomdata.com/practice/medium-winagg-004) · Medium · 2026-08-30
-- [medium-winagg-003](https://xomdata.com/practice/medium-winagg-003) · Medium · 2026-08-30
-- [medium-winagg-002](https://xomdata.com/practice/medium-winagg-002) · Medium · 2026-08-30
-- [medium-winagg-001](https://xomdata.com/practice/medium-winagg-001) · Medium · 2026-08-30
-- [medium-topn-006](https://xomdata.com/practice/medium-topn-006) · Medium · 2026-08-30
-- [medium-topn-005](https://xomdata.com/practice/medium-topn-005) · Medium · 2026-08-30
-- [medium-topn-004](https://xomdata.com/practice/medium-topn-004) · Medium · 2026-08-30
-- [medium-topn-003](https://xomdata.com/practice/medium-topn-003) · Medium · 2026-08-30
-- [medium-topn-002](https://xomdata.com/practice/medium-topn-002) · Medium · 2026-08-30
-- [medium-topn-001](https://xomdata.com/practice/medium-topn-001) · Medium · 2026-08-30
+- [hard-cohort-003](https://xomdata.com/practice/hard-cohort-003) · Hard · 2026-08-31
+- [medium-winagg-010](https://xomdata.com/practice/medium-winagg-010) · Medium · 2026-08-31
+- [medium-winagg-006](https://xomdata.com/practice/medium-winagg-006) · Medium · 2026-08-31
+- [medium-classify-002](https://xomdata.com/practice/medium-classify-002) · Medium · 2026-08-31
+- [medium-winagg-009](https://xomdata.com/practice/medium-winagg-009) · Medium · 2026-08-31
+- [medium-frequency-005](https://xomdata.com/practice/medium-frequency-005) · Medium · 2026-08-31
+- [medium-firstlast-001](https://xomdata.com/practice/medium-firstlast-001) · Medium · 2026-08-31
+- [medium-monetary-002](https://xomdata.com/practice/medium-monetary-002) · Medium · 2026-08-31
+- [medium-ntile-002](https://xomdata.com/practice/medium-ntile-002) · Medium · 2026-08-31
+- [medium-ntile-001](https://xomdata.com/practice/medium-ntile-001) · Medium · 2026-08-31
 
-_Synced 343 solutions · last update 2026-08-30_
+_Synced 367 solutions · last update 2026-08-31_
 
 <!-- xomdata:stats:end -->
 
