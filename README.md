@@ -4,27 +4,27 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**406** problems solved on [Xom Data](https://xomdata.com/practice).
+**434** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Python | 80 | 82 | 20 | 0 | 182 |
-| SQL | 80 | 132 | 4 | 8 | 224 |
+| Python | 80 | 82 | 20 | 3 | 185 |
+| SQL | 88 | 119 | 34 | 8 | 249 |
 
 **Recently solved**
 
-- [medium-churn-002](https://xomdata.com/practice/medium-churn-002) · Medium · 2026-09-03
-- [medium-monetary-003](https://xomdata.com/practice/medium-monetary-003) · Medium · 2026-09-03
-- [medium-repeat-005](https://xomdata.com/practice/medium-repeat-005) · Medium · 2026-09-03
-- [medium-active-006](https://xomdata.com/practice/medium-active-006) · Medium · 2026-09-03
-- [medium-cohort-004](https://xomdata.com/practice/medium-cohort-004) · Medium · 2026-09-03
-- [medium-gap-001](https://xomdata.com/practice/medium-gap-001) · Medium · 2026-09-03
-- [medium-frequency-001](https://xomdata.com/practice/medium-frequency-001) · Medium · 2026-09-03
-- [medium-frequency-002](https://xomdata.com/practice/medium-frequency-002) · Medium · 2026-09-03
-- [medium-firstlast-002](https://xomdata.com/practice/medium-firstlast-002) · Medium · 2026-09-03
-- [medium-churn-005](https://xomdata.com/practice/medium-churn-005) · Medium · 2026-09-03
+- [hard-streak-001](https://xomdata.com/practice/hard-streak-001) · Hard · 2026-09-10
+- [hard-winback-002](https://xomdata.com/practice/hard-winback-002) · Hard · 2026-09-10
+- [py-majority-element](https://xomdata.com/practice/py-majority-element) · Nightmare · 2026-09-10
+- [py-longest-valid-parens](https://xomdata.com/practice/py-longest-valid-parens) · Nightmare · 2026-09-10
+- [py-longest-palindrome-substr](https://xomdata.com/practice/py-longest-palindrome-substr) · Nightmare · 2026-09-10
+- [hard-streak-003](https://xomdata.com/practice/hard-streak-003) · Hard · 2026-09-10
+- [hard-churn-006](https://xomdata.com/practice/hard-churn-006) · Hard · 2026-09-10
+- [hard-retention-007](https://xomdata.com/practice/hard-retention-007) · Hard · 2026-09-09
+- [hard-streak-004](https://xomdata.com/practice/hard-streak-004) · Hard · 2026-09-09
+- [hard-funnel-001](https://xomdata.com/practice/hard-funnel-001) · Hard · 2026-09-08
 
-_Synced 406 solutions · last update 2026-09-03_
+_Synced 447 solutions · last update 2026-09-10_
 
 <!-- xomdata:stats:end -->
 
