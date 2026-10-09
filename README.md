@@ -4,28 +4,28 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**513** problems solved on [Xom Data](https://xomdata.com/practice).
+**545** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
 | Git | 10 | 10 | 10 | 0 | 30 |
-| Python | 80 | 82 | 20 | 11 | 193 |
+| Python | 110 | 82 | 20 | 13 | 225 |
 | SQL | 88 | 119 | 75 | 8 | 290 |
 
 **Recently solved**
 
-- [git-fetch-review-integrate](https://xomdata.com/practice/git-fetch-review-integrate) · Hard · 2026-09-24
-- [git-release-hotfix](https://xomdata.com/practice/git-release-hotfix) · Hard · 2026-09-24
-- [git-backup-before-reset](https://xomdata.com/practice/git-backup-before-reset) · Hard · 2026-09-24
-- [git-integrate-two-features](https://xomdata.com/practice/git-integrate-two-features) · Hard · 2026-09-24
-- [git-rebuild-a-local-commit](https://xomdata.com/practice/git-rebuild-a-local-commit) · Hard · 2026-09-24
-- [git-revert-and-push](https://xomdata.com/practice/git-revert-and-push) · Hard · 2026-09-24
-- [git-selective-unstage-restore](https://xomdata.com/practice/git-selective-unstage-restore) · Hard · 2026-09-24
-- [git-merge-cleanup-push](https://xomdata.com/practice/git-merge-cleanup-push) · Hard · 2026-09-24
-- [git-resolve-pull-conflict](https://xomdata.com/practice/git-resolve-pull-conflict) · Hard · 2026-09-24
-- [git-recover-rejected-push](https://xomdata.com/practice/git-recover-rejected-push) · Hard · 2026-09-24
+- [pd-report-table](https://xomdata.com/practice/pd-report-table) · Easy · 2026-10-09
+- [pd-filter-date-range](https://xomdata.com/practice/pd-filter-date-range) · Easy · 2026-10-09
+- [pd-month-column](https://xomdata.com/practice/pd-month-column) · Easy · 2026-10-09
+- [pd-concat-months](https://xomdata.com/practice/pd-concat-months) · Easy · 2026-10-09
+- [pd-merge-lookup](https://xomdata.com/practice/pd-merge-lookup) · Easy · 2026-10-09
+- [pd-group-agg-table](https://xomdata.com/practice/pd-group-agg-table) · Easy · 2026-10-09
+- [pd-top-group](https://xomdata.com/practice/pd-top-group) · Easy · 2026-10-09
+- [pd-group-count](https://xomdata.com/practice/pd-group-count) · Easy · 2026-10-09
+- [pd-group-mean-round](https://xomdata.com/practice/pd-group-mean-round) · Easy · 2026-10-09
+- [pd-group-sum](https://xomdata.com/practice/pd-group-sum) · Easy · 2026-10-09
 
-_Synced 526 solutions · last update 2026-09-30_
+_Synced 558 solutions · last update 2026-10-09_
 
 <!-- xomdata:stats:end -->
 
